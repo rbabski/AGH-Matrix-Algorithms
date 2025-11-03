@@ -1,5 +1,7 @@
 # Sprawozdanie z metod mnożenia macierzy
 
+Iwo Zowada i Rafał Babski
+
 ## Cel ćwiczenia
 
 Celem ćwiczenia było zaimplementowanie i porównanie trzech metod mnożenia macierzy:
