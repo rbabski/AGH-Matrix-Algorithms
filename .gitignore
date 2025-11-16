@@ -16,3 +16,5 @@ wheels/
 .vscode/
 
 .ipynb_checkpoints/
+
+*.npz
